@@ -8,6 +8,7 @@ I'm studying for finals right now 😪, but I'm going to start working on a few 
 ## Me
 
 🤔 - I would like to do some research work, so I'm "researching" how to get started. Currently reading papers on malware classification.
+
 🔨 - I'm gonna work on a few projects soon. Look out for: Chronologia 🗺️, Jarvis 🤖, some sort of ancient text reader 🪦 (i want to work on history projects :D )
 
 I'm going to update this as I go along or whatever comes to mind idk. Maybe I will make it look really nice 👍
